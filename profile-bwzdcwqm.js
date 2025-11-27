@@ -1,6 +1,6 @@
-import { g as c, a as m, s as i, u as l, b as s } from "./supabase-client-BNm33IeM.js";
+import { g as c, a as m, s as i, u as l, b as s } from "./supabase-client-bnm33iem.js";
 /* empty css              */
-import { l as u } from "./auth-CU5iite1.js";
+import { l as u } from "./auth-cu5iite1.js";
 import "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm";
 let n = null, t = null;
 async function f() {
