@@ -1,0 +1,5 @@
+[build]
+  # No build command needed - this is a pre-built static site
+  command = ""
+  # Publish the repository root directory
+  publish = "."
